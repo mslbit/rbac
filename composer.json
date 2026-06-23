@@ -3,7 +3,7 @@
     "description": "Framework-agnostic RBAC + Auth engine. Guard/UserProvider strategy pattern, AuthManager, Casbin RBAC, zero framework dependency.",
     "type": "library",
     "license": "MIT",
-    "version": "2.0.0",
+
     "authors": [
         {
             "name": "MaisCraft Team",
@@ -44,7 +44,7 @@
         "issues": "https://github.com/mslbit/rbac/issues",
         "source": "https://github.com/mslbit/rbac"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "sort-packages": true
